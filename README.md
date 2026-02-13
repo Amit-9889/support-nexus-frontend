@@ -81,7 +81,7 @@ This frontend integrates with the Support Nexus Backend, which contains:
 
 **👉 Backend Repository:**
 
-      https://github.com/your-username/support-nexus-backend
+      https://github.com/Amit-9889/support-nexus-backend.git
       Make sure the backend server is running before starting the frontend.
 
 **🔌 API Contract**
